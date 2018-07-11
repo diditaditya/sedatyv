@@ -1,0 +1,3 @@
+## Sedatyv
+
+Simple datatype validator.
